@@ -44,6 +44,7 @@
 		DECE2189259FC5170056F0F3 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DECE2188259FC5170056F0F3 /* PageViewController.swift */; };
 		DECE218E259FC8580056F0F3 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = DECE218D259FC8580056F0F3 /* FeatureCard.swift */; };
 		DECE2193259FCF260056F0F3 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DECE2192259FCF260056F0F3 /* PageView.swift */; };
+		DECE2198259FDB3C0056F0F3 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = DECE2197259FDB3C0056F0F3 /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -107,6 +108,7 @@
 		DECE2188259FC5170056F0F3 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		DECE218D259FC8580056F0F3 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		DECE2192259FCF260056F0F3 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		DECE2197259FDB3C0056F0F3 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -299,6 +301,7 @@
 			children = (
 				DECE2188259FC5170056F0F3 /* PageViewController.swift */,
 				DECE2192259FCF260056F0F3 /* PageView.swift */,
+				DECE2197259FDB3C0056F0F3 /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -444,6 +447,7 @@
 				DECDFDFE259C51AD00B52545 /* MapView.swift in Sources */,
 				DECDFE62259EC4B600B52545 /* GraphCapsule.swift in Sources */,
 				DECDFDCB259C4CAA00B52545 /* LandmarksApp.swift in Sources */,
+				DECE2198259FDB3C0056F0F3 /* PageControl.swift in Sources */,
 				DECDFE27259D8D2A00B52545 /* FavoriteButton.swift in Sources */,
 				DECDFE78259EE08B00B52545 /* CategoryItem.swift in Sources */,
 				DECDFE64259EC4B600B52545 /* HikeDetail.swift in Sources */,
